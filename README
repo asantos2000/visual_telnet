@@ -1,0 +1,16 @@
+(1) Install using macport (http://www.macports.org/)
+  py27-crypto @2.4_1
+  py27-distribute @0.6.24_0
+  py27-paramiko @1.7.7.1_0
+  py27-pygraphviz @1.0_0
+  python27 @2.7.2_1
+  graphviz @2.28.0_2
+
+(2) Create config files
+  from_hosts_file example in/from_host_sample.txt
+  to_hosts_file example in/to_hosts_sample.txt
+
+(3) Copy telnet.py to user home from any host on from_hosts_file
+
+(4) Run:
+> python2.7 visual_telnet_v3.py <from_host_file> <to_host_file> <out_put_file-without.extension> <generate_graphic:yes|no>
