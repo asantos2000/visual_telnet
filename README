@@ -5,6 +5,10 @@
   py27-pygraphviz @1.0_0
   python27 @2.7.2_1
   graphviz @2.28.0_2
+  
+  Enviroment & Tools
+  Mac OS X 10.7.2
+  Aptana Studio 3 (http://www.aptana.com/)
 
 (2) Create config files
   from_hosts_file example in/from_host_sample.txt
