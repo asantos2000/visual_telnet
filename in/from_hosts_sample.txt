@@ -1,0 +1,4 @@
+# List of computers to connect using SSH
+localhost	user2	cGFzc3dvcmQ=
+my.computer	user	cGFzc3dvcmQ=
+computerA	userA	cGFzc3dvcmQ=
